@@ -1,5 +1,5 @@
 - 👋 Hi, there 
-- 👀 I’m interested in Searching New Things, Codind, Travelling.
+- 👀 I’m interested in Searching New Things, Coding, Travelling.
 - 🌱 I’m currently learning A Full Stack Web Development.
 - 📫 How to reach me shuklaraghav435@gmail.com.
 - Thanks for visiting  ☺️🙏

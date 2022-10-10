@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Searching New Things, Coding, Travelling.
 
-- 🌱 I’m currently learning A Full Stack Web Development.
+- 🌱 I’m currently learning Redux, MongoDB, JWT Authentication.
 
 - 👨‍💻 All of my projects are available at [https://raghav435.github.io/](https://raghav435.github.io/)
 
@@ -38,7 +38,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raghav435&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghav435&theme=react&hide_border=true)](https://git.io/streak-stats)
 
  <br />
 

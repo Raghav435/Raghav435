@@ -41,14 +41,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghav435&theme=react&hide_border=true)](https://git.io/streak-stats)
 
  <br />
+ 
+ [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=raghav435)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav435" alt="raghav435" /></a> </p>
 
  <br />
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav435&show_icons=true&locale=en" alt="raghav435" /></p>
 
 ---
 

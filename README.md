@@ -42,7 +42,7 @@
 
  <br />
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav435&show_icons=true&theme=radical)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav435&show_icons=true&theme=radical)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav435" alt="raghav435" /></a> </p>

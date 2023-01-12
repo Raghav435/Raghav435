@@ -58,7 +58,8 @@
 
  <br />
  
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav435&show_icons=true&theme=radical)
+<!-- ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav435&show_icons=true&theme=radical) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghav435&theme=moonlight)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav435" alt="raghav435" /></a> </p>
@@ -68,9 +69,12 @@
 ---
 
 ### :fire:Languages Description :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav435&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav435&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav435&theme=moonlight)
 ---
 
+### :fire:GitHub Profile Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav435&theme=moonlight)
 
 
 ### Thanks for visiting  ☺️🙏

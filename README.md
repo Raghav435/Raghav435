@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Raghav Shukla</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/raghav-shukla-8b0288162/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://studio.youtube.com/channel/UCVn_xVhbbnCpmLRQ4Cc9pMg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://instagram.com/me_raghav_shukla_rks">
+    <img src="https://img.shields.io/badge/Instagram-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raghav435&label=Profile%20views&color=0e75b6&style=flat" alt="raghav435" /> </p>
+
 - 👀 I’m interested in Searching New Things, Coding, Travelling.
 
 - 🌱 I’m currently learning Redux, MongoDB, JWT Authentication.
@@ -11,12 +27,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10MXQyiRdBVuwRJcM6f7LXTcYWay0aZ0O/view?usp=sharing](https://drive.google.com/file/d/10MXQyiRdBVuwRJcM6f7LXTcYWay0aZ0O/view?usp=sharing)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav435&label=Profile%20views&color=0e75b6&style=flat" alt="raghav435" /> </p>
+
 
 ---
 
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e4740wm9332enfb9zwot1zg1l3spo09h61y4yts2khg&rid=giphy.gif&ct=g" />
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---

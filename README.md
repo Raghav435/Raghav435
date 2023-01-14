@@ -69,8 +69,8 @@
 ---
 
 ### :fire:Languages Description :
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav435&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav435&theme=moonlight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav435&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav435&theme=moonlight) -->
 ---
 
 ### :fire:GitHub Profile Summary

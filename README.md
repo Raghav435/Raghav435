@@ -59,7 +59,7 @@
  <br />
  
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav435&show_icons=true&theme=radical)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghav435&theme=moonlight) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghav435&theme=moonlight)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav435" alt="raghav435" /></a> </p>
